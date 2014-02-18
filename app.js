@@ -20,3 +20,4 @@ app.use(express.cookieParser())
 routing.setup(app);
 
 app.listen(8080);
+console.log("192.168.1.151:8080");
